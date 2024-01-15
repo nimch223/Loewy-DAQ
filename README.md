@@ -9,9 +9,8 @@ Visit our research group website: https://www.lehighloewyinstitute.org
 ---
 # **Guide for Next User - Vibrational Analysis for a Four-High Rolling Mill**
 ### **Author**: Nicholas Cheney @nimch223  
-### **Advisors**: Professor Wojtek Misiolek 
-###               Nick Rockwell @nmrockwell 
-### **Document Last Updated On**: December 20, 2023
+### **Advisors**: Professor Wojtek Misiolek & Nick Rockwell @nmrockwell 
+### **Document Last Updated On**: January 15, 2024
 
 ---
 

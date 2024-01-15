@@ -63,9 +63,7 @@ configure and run the software for plotting the vibrational data from the two ac
 The following components outline the hardware used to make the vibrational sensor. Included
 are either the links of where to find and buy them, or the files where they can be located.  
 
-Files located in Github, at the following location:  
-
-#**ADD THIS**
+Files located in Github, at the following location: https://github.com/nimch223/Loewy-DAQ
 
 **1. Microcontroller:**  
 - Adafruit METRO 
